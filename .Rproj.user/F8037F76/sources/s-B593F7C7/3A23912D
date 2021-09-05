@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630786969075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1790234553",
+    "id" : "3A23912D",
+    "lastKnownWriteTime" : 1630868890,
+    "last_content_update" : -2147483648,
+    "path" : "C:/Users/fojan/Desktop/Learning RStudio/mishmish.R",
+    "project_path" : "mishmish.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
